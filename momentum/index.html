@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link href="assets/favicon.ico" rel="shortcut icon" />
+  <link rel="stylesheet" href="css/owfont-regular.css" />
+  <link rel="stylesheet" href="css/style.css" />
+  <script type="module" src="scripts/index.js" defer></script>
+  <title>momentum</title>
+</head>
+
+<body>
+  <header class="header">
+    <div class="player _active" id="audio">
+      <div class="player-controls">
+        <button class="play-prev player-icon"></button>
+        <button class="play player-icon"></button>
+        <button class="play-next player-icon"></button>
+      </div>
+      <ul class="play-list"></ul>
+    </div>
+    <div class="weather _active" id="weather">
+      <input type="text" class="city" />
+      <i class="weather-icon owf"></i>
+      <div class="weather-error"></div>
+      <div class="description-container">
+        <span class="temperature"></span>
+        <span class="weather-description"></span>
+      </div>
+      <div class="wind"></div>
+      <div class="humidity"></div>
+    </div>
+
+    <div id="todo">
+      <div class="todolist-title">TODO List</div>
+      <input class="add-todo" type="text" placeholder="Add new todo">
+      <ul class="todos">
+
+      </ul>
+      <div class="todo-buttons">
+        <button class="todo-save">Save</button>
+        <button class="todo-clear">Clear</button>
+      </div>
+    </div>
+
+  </header>
+  <main class="main">
+    <div class="slider-icons">
+      <button class="slide-prev slider-icon"></button>
+      <button class="slide-next slider-icon"></button>
+    </div>
+    <time class="time _active" id="time"></time>
+    <date class="date _active" id="date"></date>
+    <div class="greeting-container _active" id="greeting">
+      <span class="greeting"></span>
+      <input type="text" class="name" placeholder="[Enter name]" />
+    </div>
+
+  </main>
+  <footer class="footer">
+    <div class="settings">
+      <div class="settings-overlay _invisible"></div>
+      <button class="settings-btn"></button>
+      <ul class="settings-list">
+        <li class="settings-item languages"><span> Choose language</span>
+          <label>
+            <input type="radio" name="lang" value="ru">ru
+          </label>
+          <label>
+            <input type="radio" name="lang" value="en">en
+          </label>
+        </li>
+        <li class="settings-item images-source"><span>Choose images source</span>
+          <label>
+            <input type="radio" value="github" name="img-source" checked>GitHub
+          </label>
+          <label>
+            <input type="radio" value="unsplash" name="img-source">Unsplash API
+          </label>
+          <label>
+            <input type="radio" value="flickr" name="img-source">Flickr API
+          </label>
+        </li>
+        <li class="settings-item tegs">
+          <span></span>
+          <select class="tegs-select">
+            <option value="nature" selected>Nature</option>
+            <option value="fashion" >Fashion</option>
+            <option value="experimental">Experimental</option>
+            <option value="film ">Film</option>
+            <option value="wallpapers">Wallpapers</option>
+            <option value="food-drink">Food & Drink</option>
+            <option value="interiors">Interiors</option>
+            <option value="street-photography">Street Photography</option>
+            <option value="travel ">Travel</option>
+            <option value="animals">Animals</option>
+            <option value="spirituality">Spirituality</option>
+            <option value="textures-patterns">Textures & Patterns</option>
+          </select>
+        </li>
+        <li class="settings-item blocks-visibility">
+          <span></span>
+          <label>
+            <input type="checkbox" value="audio" name="hidden-block">Audio
+          </label>
+          <label>
+            <input type="checkbox" value="time" name="hidden-block">Time
+          </label>
+          <label>
+            <input type="checkbox" value="date" name="hidden-block">Date
+          </label>
+          <label>
+            <input type="checkbox" value="weather" name="hidden-block">Weather
+          </label>
+          <label>
+            <input type="checkbox" value="greeting" name="hidden-block">Greeting
+          </label>
+          <label>
+            <input type="checkbox" value="quotes" name="hidden-block">Quotes
+          </label>
+          <label>
+            <input type="checkbox" value="todo" name="hidden-block">TODO
+          </label>
+        </li>
+      </ul>
+    </div>
+    <div class="quote-container _active" id="quotes">
+      <button class="change-quote"></button>
+      <div class="quote"></div>
+      <div class="author"></div>
+    </div>
+    <div class="social-container">
+      <a href="https://rs.school/js/" class="social-rss" target="_blank">
+        <img src="./assets/svg/rss.svg" alt="rsschool logo">
+      </a>
+      <a href="https://github.com/avsamoilava" class="social-github" target="_blank">
+        <img src="./assets/svg/github.svg" alt="github logo">
+      </a>
+    </div>
+
+  </footer>
+  <script src="js/script.js"></script>
+</body>
+
+</html>

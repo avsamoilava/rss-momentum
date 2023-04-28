@@ -1,0 +1,167 @@
+[
+  {"ru": [{
+      "text": "Пишите код так, как будто сопровождать его будет склонный к насилию психопат, который знает, где вы живете",
+      "author": "Стив Макконнелл"
+    },
+    {
+      "text": "Сложность программы растет до тех пор, пока не превысит способности программиста",
+      "author": "Артур Блох. Законы Мэрфи"
+    },
+    {
+      "text": "Ходить по воде и разрабатывать программы, следуя ТЗ, очень просто… если они заморожены",
+      "author": "И. Берард"
+    },
+    {
+      "text": "Стремитесь не к успеху, а к ценностям, которые он дает",
+      "author": "Альберт Эйнштейн"
+    },
+    {
+      "text": "Сложнее всего начать действовать, все остальное зависит только от упорства",
+      "author": "Амелия Эрхарт"
+    },
+    {
+      "text": "Надо любить жизнь больше, чем смысл жизни",
+      "author": "Федор Достоевский"
+    },
+    {
+      "text": "Жизнь - это то, что с тобой происходит, пока ты строишь планы",
+      "author": "Джон Леннон"
+    },
+    {
+      "text": "Ваше время ограничено, не тратьте его, живя чужой жизнью",
+      "author": "Стив Джобс"
+    },
+    {
+      "text": "В моем словаре нет слова «невозможно»",
+      "author": "Наполеон Бонапарт"
+    },
+    {
+      "text": "Свобода ничего не стоит, если она не включает в себя свободу ошибаться",
+      "author": "Махатма Ганди"
+    },
+    {
+      "text": "Либо вы управляете вашим днем, либо день управляет вами",
+      "author": "Джим Рон, оратор и бизнес-тренер"
+    },
+    {
+      "text": "Если вы думаете, что на что-то способны, вы правы; если думаете, что у вас ничего не получится - вы тоже правы",
+      "author": "Генри Форд"
+    },
+    {
+      "text": "Зачастую говорят, что мотивации хватает ненадолго. Но то же самое происходит и с освежающим душем, поэтому и рекомендуют его принимать ежедневно",
+      "author": "Зиг Зиглар, писатель, бизнесмен и консультант по маркетингу"
+    },
+    {
+      "text": "Лучше быть уверенным в хорошем результате, чем надеяться на отличный",
+      "author": "Уоррен Баффет"
+    },
+    {
+      "text": "Стоит только поверить, что вы можете – и вы уже на полпути к цели",
+      "author": "Теодор Рузвельт"
+    },
+    {
+      "text": "У всего есть своя красота, но не каждый может ее увидеть",
+      "author": "Конфуций"
+    },
+    {
+      "text": "Любой дурак может написать код, понятный компьютеру. Хороший программист пишет код, понятный человеку",
+      "author": "Мартин Фаулер"
+    },
+    {
+      "text": "Математики думают, что Бог в уравнениях, нейрологи уверены, что Бог в мозге, а программисты уверены, что Бог — один из них",
+      "author": "Морган Фриман"
+    },
+    {
+      "text": "Глупец, лишенный способности посмеяться над собой вместе с другими, не сможет долго выносить программирование",
+      "author": "Артур Блох. Законы Мэрфи"
+    },
+    {
+      "text": "Хороший программист — это тот, кто смотрит в обе стороны, переходя дорогу с односторонним движением",
+      "author": "Даг Линдер"
+    }
+  ]
+},
+{"en": [
+    {
+      "text": "Write code as if it were accompanied by a violent psychopath who knows where you live",
+      "author": "Steve McConnell"
+    },
+    {
+      "text": "The complexity of the program grows until it exceeds the ability of the programmer",
+      "author": "Arthur Bloch. Murphy's laws"
+    },
+    {
+      "text": "It's very easy to walk on water and develop programs according to the ToR... if they are frozen",
+      "author": "I. Berard"
+    },
+    {
+      "text": "Strive not for success, but for the values ​​it gives",
+      "author": "Albert Einstein"
+    },
+    {
+      "text": "The hardest thing is to start acting, everything else depends only on perseverance",
+      "author": "Amelia Earhart"
+    },
+    {
+      "text": "We must love life more than the meaning of life",
+      "author": "Fedor Dostoevsky"
+    },
+    {
+      "text": "Life is what happens to you while you're making plans",
+      "author": "John Lennon"
+    },
+    {
+      "text": "Your time is limited, don't waste it living someone else's life",
+      "author": "Steve Jobs"
+    },
+    {
+      "text": "There is no word 'impossible' in my dictionary",
+      "author": "Napoleon Bonaparte"
+    },
+    {
+      "text": "Freedom is worth nothing unless it includes the freedom to make mistakes",
+      "author": "Mahatma Gandhi"
+    },
+    {
+      "text": "Either you control your day or the day controls you",
+      "author": "Jim Rohn, public speaker and business coach"
+    },
+    {
+      "text": "If you think you are capable of something, you are right; If you think that you will not succeed, you are also right",
+      "author": "Henry Ford"
+    },
+    {
+      "text": "It is often said that motivation does not last long. But the same thing happens with a refreshing shower, which is why it is recommended to take it daily",
+      "author": "Zig Ziglar, writer, businessman and marketing consultant"
+    },
+    {
+      "text": "It is better to be sure of a good result than to hope for a great one",
+      "author": "Warren Buffett"
+    },
+    {
+      "text": "You just have to believe that you can - and you are already halfway to the goal",
+      "author": "Theodore Roosevelt"
+    },
+    {
+      "text": "Everything has its beauty, but not everyone can see it",
+      "author": "Confucius"
+    },
+    {
+      "text": "Any fool can write code that a computer can understand. A good programmer writes human-readable code",
+      "author": "Martin Fowler"
+    },
+    {
+      "text": "Mathematicians think God is in the equations, neuroscientists think God is in the brain, and programmers think God is one of them",
+      "author": "Morgan Freeman"
+    },
+    {
+      "text": "A fool who lacks the ability to laugh at himself along with others will not be able to endure programming for long",
+      "author": "Arthur Bloch. Murphy's laws"
+    },
+    {
+      "text": "A good programmer is one who looks both ways when crossing a one-way street",
+      "author": "Doug Linder"
+    }
+  ]
+}
+]
